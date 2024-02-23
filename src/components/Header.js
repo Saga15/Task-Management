@@ -15,26 +15,8 @@ export default function Header() {
   return (
     <div className="header">
       <div className="header-info">
-        <h1>Task Board</h1>
-        <ul>
-          <li>
-            <a
-              className="github-icon"
-              href="https://github.com/tannerdolby/react-task-board"
-              title="Link to react-task-board repository on GitHub"
-            >
-              <GitHubIcon />
-            </a>
-          </li>
-          <li>
-            <img
-              src="https://tannerdolby.com/images/arc1.png"
-              alt="Archimedean spiral icon"
-              width="27"
-              height="27"
-            />
-          </li>
-        </ul>
+        <h1>Task Management Board</h1>
+      
       </div>
       <div className="header-inputs">
         <div className="controls">

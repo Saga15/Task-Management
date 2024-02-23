@@ -1,6 +1,6 @@
 {
-  "name": "react-todo-list",
-  "description": "An interactive task board built with React and Redux.",
+  "name": "Task-Management",
+  "description": "An interactive Task-Management built with React and Redux.",
   "version": "1.0.0",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
