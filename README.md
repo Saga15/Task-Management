@@ -8,5 +8,5 @@ Features:
 - Search
 - Download task board state to an output JSON file
 - Drag and drop
-- Persist tasks between tabs via local storage
+- Persist tasks between tabs via local storage   
 
